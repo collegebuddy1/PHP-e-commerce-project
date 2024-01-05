@@ -80,7 +80,13 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 	<div class="container">
 		<div class="furniture-container homepage-container">
 		<div class="row">
-		
+		<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			<div class="col-xs-12 col-sm-12 col-md-3 sidebar">
 				<!-- ================================== TOP NAVIGATION ================================== -->
 	<?php include('includes/side-menu.php');?>
@@ -97,7 +103,13 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 				<!-- /.container-fluid -->
 			</div><!-- /.item -->
 		</div><!-- /.full-width-slider -->
-	    
+	    <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 	    <div class="full-width-slider">
 			<div class="item full-width-slider" style="background-image: url(assets/images/sliders/slider2.png);">
 			</div><!-- /.item -->
@@ -117,6 +129,13 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
 						<div class="col-xs-2">
 						     <i class="icon fa fa-dollar"></i>
 						</div>
+						<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 						<div class="col-xs-10">
 							<h4 class="info-box-heading green">money back</h4>
 						</div>

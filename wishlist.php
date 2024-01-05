@@ -153,6 +153,27 @@ header('location:payment-method.php');
 				<div class="col-md-12 my-wishlist">
 	<div class="table-responsive">
 		<table class="table">
+    <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
+<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
+<iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 			<thead>
 				<tr>
 					<th colspan="4">My wishlist</th>
@@ -181,6 +202,13 @@ $num=mysqli_num_rows($rt);
 							<i class="fa fa-star rate"></i>
 							<i class="fa fa-star rate"></i>
 							<i class="fa fa-star rate"></i>
+              <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
 							<i class="fa fa-star rate"></i>
 							<i class="fa fa-star non-rate"></i>
 							<span class="review">( <?php echo htmlentities($num);?> Reviews )</span>

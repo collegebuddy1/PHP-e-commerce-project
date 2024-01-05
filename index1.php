@@ -76,6 +76,12 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
     <a class="scrollToTop" href="#"><i class="fa fa-chevron-up"></i></a>
   <!-- END SCROLL TOP BUTTON -->
 
+  <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
 
   <!-- Start header section -->
   <header id="aa-header">

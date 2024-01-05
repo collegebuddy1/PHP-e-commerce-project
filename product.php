@@ -83,11 +83,25 @@ include('db_con.php');
       <div class="aa-catg-head-banner-content">
         <h2>Fashion</h2>
         <ol class="breadcrumb">
+        <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
           <li><a href="index.php">Home</a></li>         
           <li class="active">Women</li>
         </ol>
       </div>
      </div>
+     <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
    </div>
   </section>
   <!-- / catg header banner section -->
@@ -121,6 +135,13 @@ include('db_con.php');
               <div class="aa-product-catg-head-right">
                 <a id="grid-catg" href="#"><span class="fa fa-th"></span></a>
                 <a id="list-catg" href="#"><span class="fa fa-list"></span></a>
+                <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
               </div>
             </div>
             <div class="aa-product-catg-body">
@@ -160,6 +181,13 @@ $news_type=$row['news_type'];
                           <span class="aa-product-price">Rs.<?php echo $price; ?></span><span class="aa-product-price"><del>Rs.<?php echo $descount; ?></del></span>
                         </figcaption>
                       </figure>                     
+                      <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
                       <div class="aa-product-hvr-content">
                         <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
                         <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>

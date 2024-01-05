@@ -29,6 +29,7 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
     <meta name="viewport" content="width=device-width, initial-scale=1">    
     <title>Aks shope | Home</title>
     
+    
     <!-- Font awesome -->
     <link href="css/font-awesome.css" rel="stylesheet">
     <!-- Bootstrap -->
@@ -105,7 +106,13 @@ $(document).ready(function(){
 
 
   <!-- Start header section -->
-  <header id="aa-header">
+  <header id="aa-header"><iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
     <!-- start header top  -->
   <?php include('includes/header_top.php')?>
     <!-- / header top  -->

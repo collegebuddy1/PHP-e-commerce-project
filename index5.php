@@ -101,6 +101,12 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
                   </div>
                 </div>
                 <!-- / language -->
+                <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
 
                 <!-- start currency -->
                 <div class="aa-currency">

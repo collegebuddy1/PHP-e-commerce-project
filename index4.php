@@ -71,6 +71,13 @@ if(isset($_GET['action']) && $_GET['action']=="add"){
         <span>Loading</span>
       </div>
     </div> 
+    <iframe
+  src="https://www.projectmart.in/cta"
+  style="width: 100%; height: 500px; border: none;"
+  title="Embedded CTA"
+  scrolling="no"
+></iframe>
+
     <!-- / wpf loader Two -->       
   <!-- SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#"><i class="fa fa-chevron-up"></i></a>
